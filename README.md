@@ -9,3 +9,5 @@
 - python class 物件導向語法
 - python crawler 網路爬蟲
 - python windows 視窗設計
+ 
+1.本地端修改1
